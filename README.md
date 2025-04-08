@@ -13,7 +13,7 @@ This repository contains replication materials for the paper **"Private Goods fo
 
 ## Usage
 
-Open and run `DataModels.R` in R or RStudio to reproduce the main analyses. Make sure all files are in the working directory.
+Open and run `Models.R` in R or RStudio to reproduce the main analyses. Make sure all files are in the working directory.
 
 ## Author
 
