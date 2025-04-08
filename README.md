@@ -10,6 +10,7 @@ This repository contains replication materials for the paper **"Private Goods fo
 | `pubgoods.xlsx` | Dataset used for survival/hazard models assessing peace with Public Goods PCs. |
 | `Models.R`      | R script for preprocessing data and executing statistical models. |
 | `log.Rhistory`      | Log/ouput of R Script. |
+| `Codebook.md`      | Codebook that specifies variables used in analysis. |
 
 ## Usage
 
