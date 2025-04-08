@@ -8,7 +8,8 @@ This repository contains replication materials for the paper **"Private Goods fo
 |---------------------|-------------|
 | `privgoods.csv`    | Dataset used for survival/hazard models assessing peace with Private Goods PCs. |
 | `pubgoods.xlsx` | Dataset used for survival/hazard models assessing peace with Public Goods PCs. |
-| `DataModels.R`      | R script for preprocessing data and executing statistical models. |
+| `Models.R`      | R script for preprocessing data and executing statistical models. |
+| `log.Rhistory`      | Log/ouput of R Script. |
 
 ## Usage
 
